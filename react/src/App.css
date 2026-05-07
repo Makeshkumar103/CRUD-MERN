@@ -1,0 +1,21 @@
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 30px;
+  
+}
+.container h1 {
+  text-align: center;
+}
+ */
+
+form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
