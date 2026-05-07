@@ -1,17 +1,6 @@
 import React from 'react'
 const FormInput = ({details, handleChange, handleSubmit,editIndex}) => {
 
-  // const [details, setDetails] = useState([{name:"", age:"", email:""}]);
-  // const [submitted, setSubmitted] = useState([]);
-
-  // const handleSubmit = (e) =>{
-  //   e.preventDefault();
-  //   setSubmitted([details]);
-  // }
-  // const handleChange = (e) => {
-  //     setDetails({...details,[e.target.name]:e.target.value});
-  // };
-
   return (
     <>
     <div>
