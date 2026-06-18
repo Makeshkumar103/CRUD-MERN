@@ -7,7 +7,7 @@ app.use(express.json());
 const port = 8000;
 
 app.use(
-  cors({origin: 'http://localhost:3000',
+  cors({origin: 'http://localhost:3002',
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
   })
 );
